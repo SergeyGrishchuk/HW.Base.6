@@ -6,8 +6,8 @@ import HomeWork6.animals.Dog;
 public class Main {
 
     public static void main(String[] args) {
-        Cat cat = new Cat(150,10);
-        Dog dog = new Dog(350, 9);
+        Cat cat = new Cat(200,0);
+        Dog dog = new Dog(500, 10);
 
         cat.swimming();
         dog.running();
